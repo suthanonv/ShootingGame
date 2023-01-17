@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4ff376ae5071149880374d7493fd45, type: 3}
+  m_Name: machine gun
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: ac5de94053f294b929e8105eced63bbe, type: 3}
+  WeaponName: 'Machine Gun '
+  WeaponPrefab: {fileID: 7618151513777489336, guid: a95a84ce9612abf469352734ff5ab917, type: 3}
+  NextWeapon:
+  - {fileID: 11400000, guid: 60004ca729c036d4eaaa34676fe3e691, type: 2}
+  PointCost: 500

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170e7e9a1747e1745b95fffa9ed982c0, type: 3}
+  m_Name: DashShip
+  m_EditorClassIdentifier: 
+  ChatacterID: 1
+  CharacterPreFab: {fileID: 3323360291007183841, guid: 81e8e2f1834cd8949a0c14144cbc0bd5, type: 3}
+  Stat: {fileID: 11400000, guid: 388180cd01336d94787a753db309a8ac, type: 2}
+  CharacterName: Ship156
+  Des: {fileID: 11400000, guid: 9a420c8a66a578a4a9ddb2ae3f9278cc, type: 2}
+  Icon: {fileID: 21300000, guid: 29935932bc206cc4b90e9b8abecb5116, type: 3}
+  ChracterCost: 0
+  isUnlock: 1
+  CurrentLv: 0
+  UpgradeCost: 64000000c8000000f4010000e803000088130000
